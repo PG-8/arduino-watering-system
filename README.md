@@ -56,6 +56,10 @@ ________________________________________________________________________________
 **SKETCHES/PICTURES:**
 
 > ![Sketch 0](https://github.com/PG-8/arduino-watering-system/blob/master/Sketch0.jpg)
+> ![Sketch 1](https://github.com/PG-8/arduino-watering-system/blob/master/Sketch1.jpg)
+> ![Sketch 2](https://github.com/PG-8/arduino-watering-system/blob/master/Sketch2.jpg)
+> ![Sketch 3](https://github.com/PG-8/arduino-watering-system/blob/master/Sketch3.jpg)
+
 __________________________________________________________________________________________________________
 
 **END OF DOCUMENT.**
