@@ -55,8 +55,7 @@ ________________________________________________________________________________
 
 **SKETCHES/PICTURES:**
 
->arduino-watering-system/blob/master/Sketch0.jpg
-
+> ![Sketch 0](https://github.com/PG-8/arduino-watering-system/blob/master/Sketch0.jpg)
 __________________________________________________________________________________________________________
 
 **END OF DOCUMENT.**
