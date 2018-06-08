@@ -17,22 +17,22 @@ Anyone interested in setting up an automatic watering system for plants using Ar
 __________________________________________________________________________________________________________
 
 SOFTWARE:
--Arduino IDE;
+*Arduino IDE;
 
 HARDWARE & TOOLS:
--Arduino Uno or equivalent clone;
--Water pump (5V or 9V or 12V);
--Transistor;
--Breadboard;
--Jumper wires;
--Silicon tubes (compatible with the out/intake of the water pump);
--Bucket;
--9V battery;
--Scissors;
+*Arduino Uno or equivalent clone;
+*Water pump (5V or 9V or 12V);
+*Transistor;
+*Breadboard;
+*Jumper wires;
+*Silicon tubes (compatible with the out/intake of the water pump);
+*Bucket;
+*9V battery;
+*Scissors;
 
 OPTIONAL:
--Temperature sensor;
--Brightness sensor;
+*Temperature sensor;
+*Brightness sensor;
 
 __________________________________________________________________________________________________________
 
@@ -53,11 +53,5 @@ RESOURCES:
 To be defined
 
 __________________________________________________________________________________________________________
-__________________________________________________________________________________________________________
-__________________________________________________________________________________________________________
-__________________________________________________________________________________________________________
-__________________________________________________________________________________________________________
-__________________________________________________________________________________________________________
-__________________________________________________________________________________________________________
 
-END OF DOCUMENT.
+**END OF DOCUMENT.
