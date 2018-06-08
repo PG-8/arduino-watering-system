@@ -23,6 +23,7 @@ ________________________________________________________________________________
 * Transistor
 * Breadboard
 * Jumper wires
+* Breadboard
 * Silicon tubes
 * Bucket
 * 9V battery
