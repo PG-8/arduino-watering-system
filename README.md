@@ -1,6 +1,7 @@
 
 ## **STATUS: NOT COMPLETED**
 
+
 **INTRODUCTION:**
 
 This repository is a dedicated space for documenting all steps of planning, designing, prototyping, testing and deploy an automated solution for watering plants using Arduino Uno and a small 12V water pump.
