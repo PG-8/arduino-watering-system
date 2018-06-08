@@ -23,10 +23,11 @@ ________________________________________________________________________________
 * Transistor
 * Breadboard
 * Jumper wires
-* Silicon tubes (compatible with the out/intake of the water pump)
+* Silicon tubes
 * Bucket
 * 9V battery
 * Scissors
+* *more elements may be added later*
 
 **OPTIONAL:**
 * Temperature sensor
