@@ -1,16 +1,22 @@
 
-## **STATUS: NOT COMPLETED**
-
+## **STATUS: It's complicated, but the prototype works and turned out to be **
 
 **INTRODUCTION:**
 
-This repository is a dedicated space for documenting all steps of planning, designing, prototyping, testing and deploy an automated solution for watering plants using Arduino Uno and a small 12V water pump.
+This repository is a dedicated space for documenting some steps of planning, designing and prototyping an automated solution for watering a plant using an Arduino Uno clone and a small 12V water pump.
 
-__________________________________________________________________________________________________________
+**PROTOTYPE:**
+The prototype runs its code for 10 seconds activating the pump which takes water from the bucket and replenishes itself (for testing purposes the code ran every other minute, when in production can be set to 24h cycles).
 
-**WHO IS THIS FOR:**
+**PROs:**
+- It works and can be left unsupervised for a few days (Onlyh after isolating all exposed circuits, because as you can see in the video they are not, which makes it a fire hazard)
+- Learned a lot about microcontrollers and electronics
+- Easy to setup with humidity, brightness, temperature sensors (but overkill if you can just water the plant every 24 hours for 10 seconds)
 
-Anyone interested in setting up an automatic watering system for plants using an Arduino Uno or similar.
+**CONs:**
+- Can water only one plant effectively
+- It will most likely stay a prototype
+- Can't trust it in the long run as it can't automatically refill its own tank (water finishes in a few days due to evaporation and usage)
 
 __________________________________________________________________________________________________________
 
@@ -28,7 +34,7 @@ ________________________________________________________________________________
 * Bucket
 * 9V battery
 * Scissors
-* *more elements may be added later*
+* Soldering iron
 
 **OPTIONAL:**
 * Temperature sensor
@@ -36,25 +42,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________
 
-**PROCESS DESCRIPTION:**
-
->To be defined
-
-__________________________________________________________________________________________________________
-
-**PROCESS CHART:**
-
->To be defined
-
-__________________________________________________________________________________________________________
-
-**RESOURCES:**
-
->To be defined
-
-__________________________________________________________________________________________________________
-
-**SKETCHES/PICTURES:**
+**SKETCHES/GIFs:**
 
 > ![Sketch 0](https://github.com/PG-8/arduino-watering-system/blob/master/Sketch0.jpg)
 > ![Sketch 1](https://github.com/PG-8/arduino-watering-system/blob/master/Sketch1.jpg)
@@ -62,5 +50,6 @@ ________________________________________________________________________________
 > ![Sketch 3](https://github.com/PG-8/arduino-watering-system/blob/master/Sketch3.jpg)
 
 __________________________________________________________________________________________________________
+
 
 **END OF DOCUMENT.**
