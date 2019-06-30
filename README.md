@@ -1,4 +1,4 @@
-# Arduino Uno clone watering system
+# Arduino watering system
 
 This repo's purpose is to showcase a prototype I've built to automatically water a plant using an Arduino Uno clone and a small 12V water pump.
 
