@@ -10,7 +10,7 @@ The prototype runs its code for 10 seconds activating the pump which takes water
 
 **Pros:**
 
-- It works and can be left unsupervised for a few days (Onlyh after isolating all exposed circuits, because as you can see in the video they are not, which makes it a fire hazard)
+- It works and can be left unsupervised for a few days **(Only after isolating all exposed circuits, because as you can see in the video they are not, which makes it a fire hazard)**
 - Learned a lot about microcontrollers and electronics
 - Easy to setup with humidity, brightness, temperature sensors (but overkill if you can just water the plant every 24 hours for 10 seconds)
 
